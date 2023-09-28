@@ -1,0 +1,4 @@
+baseURL = 'https://colbys.github.io/'
+languageCode = 'en-us'
+title = 'Le Blog'
+theme = 'PaperMod'
